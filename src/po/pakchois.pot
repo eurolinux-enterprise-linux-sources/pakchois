@@ -1,0 +1,365 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Joe Orton
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: pakchois 0.3\n"
+"Report-Msgid-Bugs-To: joe@manyfish.co.uk\n"
+"POT-Creation-Date: 2008-02-14 16:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: errors.c:52
+msgid "Vendor defined error"
+msgstr ""
+
+#: errors.c:56
+msgid "OK"
+msgstr ""
+
+#: errors.c:57
+msgid "Cancel"
+msgstr ""
+
+#: errors.c:58
+msgid "Host memory"
+msgstr ""
+
+#: errors.c:59
+msgid "Slot id invalid"
+msgstr ""
+
+#: errors.c:60
+msgid "General error"
+msgstr ""
+
+#: errors.c:61
+msgid "Function failed"
+msgstr ""
+
+#: errors.c:62
+msgid "Arguments bad"
+msgstr ""
+
+#: errors.c:63
+msgid "No event"
+msgstr ""
+
+#: errors.c:64
+msgid "Need to create threads"
+msgstr ""
+
+#: errors.c:65
+msgid "Can't lock"
+msgstr ""
+
+#: errors.c:66
+msgid "Attribute read only"
+msgstr ""
+
+#: errors.c:67
+msgid "Attribute sensitive"
+msgstr ""
+
+#: errors.c:68
+msgid "Attribute type invalid"
+msgstr ""
+
+#: errors.c:69
+msgid "Attribute value invalid"
+msgstr ""
+
+#: errors.c:70
+msgid "Data invalid"
+msgstr ""
+
+#: errors.c:71
+msgid "Data len range"
+msgstr ""
+
+#: errors.c:72
+msgid "Device error"
+msgstr ""
+
+#: errors.c:73
+msgid "Device memory"
+msgstr ""
+
+#: errors.c:74
+msgid "Device removed"
+msgstr ""
+
+#: errors.c:75
+msgid "Encrypted data invalid"
+msgstr ""
+
+#: errors.c:76
+msgid "Encrypted data len range"
+msgstr ""
+
+#: errors.c:77
+msgid "Function canceled"
+msgstr ""
+
+#: errors.c:78
+msgid "Function not parallel"
+msgstr ""
+
+#: errors.c:79
+msgid "Function not supported"
+msgstr ""
+
+#: errors.c:80
+msgid "Key handle invalid"
+msgstr ""
+
+#: errors.c:81
+msgid "Key size range"
+msgstr ""
+
+#: errors.c:82
+msgid "Key type inconsistent"
+msgstr ""
+
+#: errors.c:83
+msgid "Key not needed"
+msgstr ""
+
+#: errors.c:84
+msgid "Key changed"
+msgstr ""
+
+#: errors.c:85
+msgid "Key needed"
+msgstr ""
+
+#: errors.c:86
+msgid "Key indigestible"
+msgstr ""
+
+#: errors.c:87
+msgid "Key function not permitted"
+msgstr ""
+
+#: errors.c:88
+msgid "Key not wrappable"
+msgstr ""
+
+#: errors.c:89
+msgid "Key unextractable"
+msgstr ""
+
+#: errors.c:90
+msgid "Mechanism invalid"
+msgstr ""
+
+#: errors.c:91
+msgid "Mechanism param invalid"
+msgstr ""
+
+#: errors.c:92
+msgid "Object handle invalid"
+msgstr ""
+
+#: errors.c:93
+msgid "Operation active"
+msgstr ""
+
+#: errors.c:94
+msgid "Operation not initialized"
+msgstr ""
+
+#: errors.c:95
+msgid "PIN incorrect"
+msgstr ""
+
+#: errors.c:96
+msgid "PIN invalid"
+msgstr ""
+
+#: errors.c:97
+msgid "PIN len range"
+msgstr ""
+
+#: errors.c:98
+msgid "PIN expired"
+msgstr ""
+
+#: errors.c:99
+msgid "PIN locked"
+msgstr ""
+
+#: errors.c:100
+msgid "Session closed"
+msgstr ""
+
+#: errors.c:101
+msgid "Session count"
+msgstr ""
+
+#: errors.c:102
+msgid "Session handle invalid"
+msgstr ""
+
+#: errors.c:103
+msgid "Session parallel not supported"
+msgstr ""
+
+#: errors.c:104
+msgid "Session read only"
+msgstr ""
+
+#: errors.c:105
+msgid "Session exists"
+msgstr ""
+
+#: errors.c:106
+msgid "Session read only exists"
+msgstr ""
+
+#: errors.c:107
+msgid "Session read write so exists"
+msgstr ""
+
+#: errors.c:108
+msgid "Signature invalid"
+msgstr ""
+
+#: errors.c:109
+msgid "Signature length range"
+msgstr ""
+
+#: errors.c:110
+msgid "Template incomplete"
+msgstr ""
+
+#: errors.c:111
+msgid "Template inconsistent"
+msgstr ""
+
+#: errors.c:112
+msgid "Token not present"
+msgstr ""
+
+#: errors.c:113
+msgid "Token not recognized"
+msgstr ""
+
+#: errors.c:114
+msgid "Token write protected"
+msgstr ""
+
+#: errors.c:115
+msgid "Unwrapping key handle invalid"
+msgstr ""
+
+#: errors.c:116
+msgid "Unwrapping key size range"
+msgstr ""
+
+#: errors.c:117
+msgid "Unwrapping key type inconsistent"
+msgstr ""
+
+#: errors.c:118
+msgid "User already logged in"
+msgstr ""
+
+#: errors.c:119
+msgid "User not logged in"
+msgstr ""
+
+#: errors.c:120
+msgid "User PIN not initialized"
+msgstr ""
+
+#: errors.c:121
+msgid "User type invalid"
+msgstr ""
+
+#: errors.c:122
+msgid "Another user already logged in"
+msgstr ""
+
+#: errors.c:123
+msgid "User too many types"
+msgstr ""
+
+#: errors.c:124
+msgid "Wrapped key invalid"
+msgstr ""
+
+#: errors.c:125
+msgid "Wrapped key length range"
+msgstr ""
+
+#: errors.c:126
+msgid "Wrapping key handle invalid"
+msgstr ""
+
+#: errors.c:127
+msgid "Wrapping key size range"
+msgstr ""
+
+#: errors.c:128
+msgid "Wrapping key type inconsistent"
+msgstr ""
+
+#: errors.c:129
+msgid "Random seed not supported"
+msgstr ""
+
+#: errors.c:130
+msgid "Random no rng"
+msgstr ""
+
+#: errors.c:131
+msgid "Domain params invalid"
+msgstr ""
+
+#: errors.c:132
+msgid "Buffer too small"
+msgstr ""
+
+#: errors.c:133
+msgid "Saved state invalid"
+msgstr ""
+
+#: errors.c:134
+msgid "Information sensitive"
+msgstr ""
+
+#: errors.c:135
+msgid "State unsaveable"
+msgstr ""
+
+#: errors.c:136
+msgid "Cryptoki not initialized"
+msgstr ""
+
+#: errors.c:137
+msgid "Cryptoki already initialized"
+msgstr ""
+
+#: errors.c:138
+msgid "Mutex bad"
+msgstr ""
+
+#: errors.c:139
+msgid "Mutex not locked"
+msgstr ""
+
+#: errors.c:140
+msgid "Function rejected"
+msgstr ""
+
+#: errors.c:145
+msgid "Unknown error"
+msgstr ""
